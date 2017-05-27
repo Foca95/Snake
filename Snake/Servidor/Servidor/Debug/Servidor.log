@@ -1,0 +1,5 @@
+﻿  Server.cpp
+c:\users\adrie\documents\isec\so-ii\trabadriel\snake\servidor\servidor\server.cpp(16): warning C4700: uninitialized local variable 'lpz' used
+c:\users\adrie\documents\isec\so-ii\trabadriel\snake\servidor\servidor\server.cpp(16): warning C4700: uninitialized local variable 'handle' used
+  Servidor.vcxproj -> C:\Users\adrie\Documents\ISEC\SO-II\TrabAdriel\Snake\Servidor\Debug\Servidor.exe
+  Servidor.vcxproj -> C:\Users\adrie\Documents\ISEC\SO-II\TrabAdriel\Snake\Servidor\Debug\Servidor.pdb (Full PDB)
