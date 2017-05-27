@@ -1,0 +1,8 @@
+﻿  snake_dll.cpp
+c:\users\adrie\documents\isec\so-ii\trabadriel\snake\dll_snake\dll_snake\snake_dll.cpp(8): warning C4273: 'UmaString': inconsistent dll linkage
+  c:\users\adrie\documents\isec\so-ii\trabadriel\snake\dll_snake\dll_snake\snake_dll.h(28): note: see previous definition of 'UmaString'
+c:\users\adrie\documents\isec\so-ii\trabadriel\snake\dll_snake\dll_snake\snake_dll.cpp(17): warning C4273: 'DllMain': inconsistent dll linkage
+  c:\users\adrie\documents\isec\so-ii\trabadriel\snake\dll_snake\dll_snake\snake_dll.h(29): note: see previous definition of 'DllMain'
+     Creating library C:\Users\adrie\Documents\ISEC\SO-II\TrabAdriel\Snake\DLL_Snake\Debug\DLL_Snake.lib and object C:\Users\adrie\Documents\ISEC\SO-II\TrabAdriel\Snake\DLL_Snake\Debug\DLL_Snake.exp
+  DLL_Snake.vcxproj -> C:\Users\adrie\Documents\ISEC\SO-II\TrabAdriel\Snake\DLL_Snake\Debug\DLL_Snake.dll
+  DLL_Snake.vcxproj -> C:\Users\adrie\Documents\ISEC\SO-II\TrabAdriel\Snake\DLL_Snake\Debug\DLL_Snake.pdb (Full PDB)
